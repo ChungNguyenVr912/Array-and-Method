@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class RemoveArrayElement {
     public static void main(String[] args) {
-        int[] arr = {5, 6, 8, 2, 3, 1, 0, 1, 5, 8, 9};
+        int[] arr = {5, 6, 8, 2, 3, 1, 2, 1, 5, 8, 9};
         for(int k : arr){
             System.out.print(k + "\t");
         }
